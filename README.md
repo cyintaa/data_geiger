@@ -1,7 +1,7 @@
-# 📡 Sistem Data Pemantauan Geiger (Radiasi Nuklir)
+# 📡 Data Pemantauan Radioaktivitas menggunakan Geiger Counter
 
 ## 📖 Deskripsi Proyek  
-Proyek ini merupakan sistem **pemantauan radiasi berbasis Geiger counter** yang digunakan untuk mengukur tingkat radiasi lingkungan secara real-time. Data radiasi yang diperoleh dari sensor Geiger akan dikumpulkan, disimpan, dan divisualisasikan untuk tujuan monitoring, penelitian, dan analisis keselamatan radiasi.
+sistem **pemantauan radiasi berbasis Geiger counter** yang digunakan untuk mengukur tingkat radiasi lingkungan secara real-time. Data radiasi yang diperoleh dari Geiger akan dikumpulkan, disimpan, dan divisualisasikan untuk tujuan monitoring, penelitian.
 
 Sistem ini dapat digunakan pada:
 - Monitoring lingkungan sekitar industri nuklir  
